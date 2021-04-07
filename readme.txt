@@ -1,0 +1,1 @@
+rename baseforportal.fgd to base.fgd
